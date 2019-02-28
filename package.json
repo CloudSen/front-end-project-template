@@ -1,0 +1,19 @@
+{
+  "name": "front-end-project-template",
+  "version": "1.0.0",
+  "description": "my common template for front-end project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template",
+    "front-end"
+  ],
+  "author": "CloudSen",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-recommended": "^4.0.0",
+    "eslint-plugin-vue": "^5.2.2"
+  }
+}
